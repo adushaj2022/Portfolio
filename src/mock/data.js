@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Front End: HTML, CSS, JavaScript, TypeScript, React js, Bootstrap, Material UI',
   paragraphTwo: 'Backend: Node js, Express, PHP, Java, Python',
   paragraphThree: 'Databases: MySQL, PostgreSQL, MongoDB',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
